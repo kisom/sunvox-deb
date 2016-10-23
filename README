@@ -1,0 +1,6 @@
+sunvox debian packager
+======================
+
+I wanted sunvox in my personal apt repo, but it's not distributed as such.
+Fairly ashamed that this uses fpm, but it gets the job done until such
+a time as I can do proper packaging.
